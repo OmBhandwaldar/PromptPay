@@ -1,0 +1,10 @@
+export const APP_NAME = "Prompt Pay";
+export const PROMPT_PRICE_DISPLAY = "0.05 USDC";
+export const PROMPT_TOP_UP_PROMPTS = 10;
+export const PROMPT_TOP_UP_PRICE_USD = "$0.50";
+export const PROMPT_TOP_UP_DISPLAY = "0.50 USDC";
+export const PROMPT_NETWORK =
+  "algorand:SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=";
+export const PROMPT_ASSET_ID = "10458941";
+export const DEFAULT_MONGODB_DB = "prompt_pay";
+export const ALGOD_TESTNET_URL = "https://testnet-api.algonode.cloud";
