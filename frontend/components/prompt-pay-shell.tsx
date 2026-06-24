@@ -143,7 +143,7 @@ function HomeTab({ onStart }: { onStart: () => void }) {
           <CardHeader>
             <CardTitle>Live payment flow</CardTitle>
             <CardDescription>
-              The app keeps the paid generation path explicit & auditable.
+              The app keeps the paid generation path explicit and auditable.
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
